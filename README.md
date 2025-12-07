@@ -1,4 +1,4 @@
-# Checkpointtest Monorepo
+# CPTEST Monorepo
 
 Vite-based yarn monorepo with TypeScript.
 
